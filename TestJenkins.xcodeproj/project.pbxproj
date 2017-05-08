@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					5C79B63B1EC0466100409C47 = {
 						CreatedOnToolsVersion = 8.3.1;
+						DevelopmentTeam = SP9D9THUTH;
 						ProvisioningStyle = Automatic;
 					};
 					5C79B6541EC0466100409C47 = {
@@ -426,9 +427,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SP9D9THUTH;
 				INFOPLIST_FILE = TestJenkins/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = JF.TestJenkins;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Nova.TestJenkins;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -437,9 +439,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SP9D9THUTH;
 				INFOPLIST_FILE = TestJenkins/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = JF.TestJenkins;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Nova.TestJenkins;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -509,6 +512,7 @@
 				5C79B66B1EC0466100409C47 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5C79B66C1EC0466100409C47 /* Build configuration list for PBXNativeTarget "TestJenkinsTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +521,7 @@
 				5C79B66E1EC0466100409C47 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5C79B66F1EC0466100409C47 /* Build configuration list for PBXNativeTarget "TestJenkinsUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +530,7 @@
 				5C79B6711EC0466100409C47 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
